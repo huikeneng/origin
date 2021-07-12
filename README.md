@@ -1,2 +1,2 @@
 # origin
-These are some simple code.
+These are some simple codes.
